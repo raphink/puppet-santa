@@ -1,0 +1,12 @@
+{
+  "name": "raphink-santa",
+  "version": "1.0.0",
+  "author": "Raphael Pinson",
+  "summary": "Puppet Santa module",
+  "license": "Apache 2.0",
+  "source": "https://github.com/raphink/puppet-santa",
+  "project_page": "https://github.com/raphink/puppet-santa",
+  "issues_url": "https://github.com/raphink/puppet-santa/issues",
+  "dependencies": [
+  ]
+}
